@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="stylesheetlp.css">
+	<style>@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');</style>
+	<title>Bienvenue</title>
+</head>
+
+<body>
+<?php require_once(__DIR__ . '/en-tête.php'); ?> 
+<div class="teams">
+    <div><h2> Isack Hadjar solide leader<h2>
+    	<a href="actu.php"><img src="Isack Hadjar Spa.jpeg"></a></div>
+	<div><h2> La sensation Arvid Lindblad<h2> 
+        <a href="actu.php#news2"><img src="Arvid_Lindblad.jpg"></a></div>
+	<div><h2> Doriane Pin: le bilan à mi-saison<h2>
+        <a href="actu.php#news3"><img src="DPin.jpg"></a></div></div>
+ 
+</body>
+</html>
